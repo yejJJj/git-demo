@@ -1,4 +1,2 @@
-hello git! 1
-hello git! 2
-hello git! 3
+master test
 
